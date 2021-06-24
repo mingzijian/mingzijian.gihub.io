@@ -1,2 +1,2 @@
-# mingzijian.gihub.io
-mingzijian.gihub.io
+# mingzijian.github.io
+mingzijian.github.io
