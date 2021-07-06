@@ -11,7 +11,7 @@ CAP
 #### CAP 定理
 在一个分布式系统中， Consistency（一致性）、 Availability（可用性）、Partition tolerance（分区容错性），三者不可得兼。
 
-![CAP](https://images.gitee.com/uploads/images/2020/0617/131347_dffcb4ce_536895.png "CAP.png")
+![CAP](https://camo.githubusercontent.com/47f943c983f86ed2643aea8558aa76e375f8eded67b3486bebc9780721e4a891/68747470733a2f2f696d616765732e67697465652e636f6d2f75706c6f6164732f696d616765732f323032302f303631372f3133313334375f64666663623463655f3533363839352e706e67 "CAP.png")
 
 #### CAP 组合
  - C+A 
