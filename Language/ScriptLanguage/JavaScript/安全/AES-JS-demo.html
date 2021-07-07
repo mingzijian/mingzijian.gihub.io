@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <title>AES-JS Demo</title>
+    <script src="./jquery-3.6.0.min.js"></script>
+    <script src="./aes-3.1.2.js"></script>
+    <script type="text/javascript">
+    // 一个128位的密钥 (5*3+1)*8=128
+    var key = aesjs.utils.utf8.toBytes('每中文3字节');
+    // 初始化向量
+    var iv = aesjs.utils.utf8.toBytes('0123456789abcdef');
+    var aesEcb;
+    var aesCbc;
+    function encrypt(mode){
+      var text = $('#input').val();
+      var textBytes = aesjs.utils.utf8.toBytes(text);
+      try {
+        var aes = getAes(mode);
+        var encryptedBytes = aes.encrypt(textBytes);
+        var encryptedHex = aesjs.utils.hex.fromBytes(encryptedBytes);
+        $('#result').val(encryptedHex);
+      } catch(err) {
+        alert(err);
+      }
+    }
+
+    function decrypt(mode){
+      // .text()方法只能够获取到textarea的初始化文本值
+      var encryptedHex = $('#result').val();
+      var encryptedBytes = aesjs.utils.hex.toBytes(encryptedHex);
+      try {
+        var aes = getAes(mode);
+        var decryptedBytes = aes.decrypt(encryptedBytes);
+        var decryptedText = aesjs.utils.utf8.fromBytes(decryptedBytes);
+        $('#input').val(decryptedText);
+      } catch(err) {
+        alert(err);
+      }
+    }
+
+    function getAes(mode){
+      switch (mode){
+        case 'cbc':
+          // 密码块链接操作模式保持内部状态，因此必须实例化新实例来解密。
+          aesCbc = new aesjs.ModeOfOperation.cbc(key, iv);
+          return aesCbc;
+        case 'ebc':
+          if(!aesEcb){
+            aesEcb = new aesjs.ModeOfOperation.ecb(key);
+          }
+          return aesEcb;
+        default:
+            throw new Error('未定义的 AES MODE:'+mode);
+            break;
+      }
+    }
+    </script>
+  </head>
+  <body>
+    <h1>AES-JS Demo</h1>
+
+    
+    <form>
+      <p>
+        <label for="input">输入</label>
+      </br>
+        <textarea rows="6" cols="50" id="input">TextMustBe16Byte</textarea>
+      </p>
+      <p>
+        <button
+          type="button"
+          onclick="encrypt('cbc')"
+        >
+          AES(CBC)加密
+        </button>
+        <button
+          type="button"
+          onclick="decrypt('cbc')"
+        >
+          AES(CBC)解密
+        </button>
+      </p>
+      <p>
+        <button
+          type="button"
+          onclick="encrypt('ebc')"
+        >
+          AES(EBC)加密
+        </button>
+        <button
+          type="button"
+          onclick="decrypt('ebc')"
+        >
+          AES(EBC)解密
+        </button>
+      </p>
+      <p>
+        <label for="result">结果</label>
+      </br>
+        <textarea rows="6" cols="50" id="result"></textarea>
+      </p>
+    </form>
+
+</html>

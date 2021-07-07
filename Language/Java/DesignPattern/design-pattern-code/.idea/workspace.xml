@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb16657c-70c5-4447-9ff0-9e125ca5b3c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Thread/Synchronized&amp;Lock&amp;Volatile.MD" beforeDir="false" afterPath="$PROJECT_DIR$/../../Thread/Synchronized&amp;Lock&amp;Volatile.MD" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GiteeDefaultAccount">
+    <option name="defaultAccountId" value="270e99ec-a94c-46cf-ab59-099012c0971d" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\data\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\application\apache\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="1hovhOMD3j6zfRZwi88TqhX2enq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/application/Git/bin/bash.exe" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.14700432" />
+    <property name="project.structure.side.proportion" value="0.38630807" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ming.demo.dp.structural.proxy" />
+      <recent name="com.ming.demo.dp.creational.factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HumanProxy">
+    <configuration name="FacadePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\application\java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ming.demo.dp.structural.facade.FacadePatternDemo" />
+      <module name="design-pattern-code" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.demo.dp.structural.facade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\application\java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ming.demo.dp.structural.proxy.HumanProxy" />
+      <module name="design-pattern-code" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.demo.dp.structural.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\application\java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ming.demo.dp.structural.proxy.ProxyPatternDemo" />
+      <module name="design-pattern-code" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.demo.dp.structural.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\application\java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ming.demo.dp.creational.factory.SimpleFactoryPatternDemo" />
+      <module name="design-pattern-code" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.demo.dp.creational.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\application\java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ming.demo.dp.creational.singleton.SingletonPatternDemo" />
+      <module name="design-pattern-code" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.demo.dp.creational.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\application\java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HumanProxy" />
+        <item itemvalue="Application.FacadePatternDemo" />
+        <item itemvalue="Application.ProxyPatternDemo" />
+        <item itemvalue="Application.SimpleFactoryPatternDemo" />
+        <item itemvalue="Application.SingletonPatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ming\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb16657c-70c5-4447-9ff0-9e125ca5b3c9" name="Default Changelist" comment="" />
+      <created>1600690378368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600690378368</updated>
+      <workItem from="1600690380421" duration="8943000" />
+      <workItem from="1600859738383" duration="9229000" />
+      <workItem from="1600948484375" duration="10196000" />
+      <workItem from="1602564386078" duration="1242000" />
+    </task>
+    <task id="LOCAL-00001" summary="懒汉单例">
+      <created>1600752130319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600752130319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="饿汉单例">
+      <created>1600752517720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600752517720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DCL（双重检查锁）单例">
+      <created>1600753349537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600753349537</updated>
+    </task>
+    <task id="LOCAL-00004" summary="枚举单例">
+      <created>1600755957955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600755957955</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SingletonPatternDemo">
+      <created>1600756398061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600756398061</updated>
+    </task>
+    <task id="LOCAL-00006" summary="简单工厂模式(Simple Factory Pattern)">
+      <created>1600861209208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600861209208</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SimpleFactoryPatternDemo">
+      <created>1600861811376</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600861811376</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SimpleFactoryPatternDemo">
+      <created>1600925728690</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600925728690</updated>
+    </task>
+    <task id="LOCAL-00009" summary="代理模式(Proxy Pattern)">
+      <created>1600929864730</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600929864730</updated>
+    </task>
+    <task id="LOCAL-00010" summary="门面模式">
+      <created>1601003923259</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601003923259</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HumanProxy">
+      <created>1601011944622</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601011944622</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="D:\application\Git\bin\bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="懒汉单例" />
+    <MESSAGE value="饿汉单例" />
+    <MESSAGE value="DCL（双重检查锁）单例" />
+    <MESSAGE value="枚举单例" />
+    <MESSAGE value="SingletonPatternDemo" />
+    <MESSAGE value="简单工厂模式(Simple Factory Pattern)" />
+    <MESSAGE value="SimpleFactoryPatternDemo" />
+    <MESSAGE value="代理模式(Proxy Pattern)" />
+    <MESSAGE value="门面模式" />
+    <MESSAGE value="HumanProxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="HumanProxy" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1181" y="224" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600767428661">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1181" y="224" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600767428661" />
+    <state x="-1155" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1601010230549">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601010230549" />
+    <state x="-1264" y="273" key="#com.intellij.tools.ToolEditorDialog" timestamp="1600767441547">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="273" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600767441547" />
+    <state x="-934" y="295" key="#xdebugger.evaluate" timestamp="1601011927054">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-934" y="295" key="#xdebugger.evaluate/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601011927054" />
+    <state x="-1510" y="88" key="CommitChangelistDialog2" timestamp="1601011941119">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1510" y="88" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601011941119" />
+    <state width="442" height="466" key="DebuggerActiveHint" timestamp="1601011823257">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="442" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601011823257" />
+    <state x="-1180" y="261" key="FileChooserDialogImpl" timestamp="1600767314954">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600767314954" />
+    <state x="-1139" y="432" key="Gitee.Dialog.Accounts.Choose" timestamp="1600752156558">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1139" y="432" key="Gitee.Dialog.Accounts.Choose/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600752156558" />
+    <state width="1879" height="348" key="GridCell.Tab.0.bottom" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state width="1879" height="348" key="GridCell.Tab.0.center" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state width="1879" height="348" key="GridCell.Tab.0.left" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state width="1879" height="348" key="GridCell.Tab.0.right" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state width="1879" height="348" key="GridCell.Tab.1.bottom" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state width="1879" height="348" key="GridCell.Tab.1.center" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state width="1879" height="348" key="GridCell.Tab.1.left" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state width="1879" height="348" key="GridCell.Tab.1.right" timestamp="1601013200128">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013200128" />
+    <state x="-1429" y="165" key="SettingsEditor" timestamp="1600767719083">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1429" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600767719083" />
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601013196361">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601013196361" />
+    <state x="-1191" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600752363416">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1191" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600752363416" />
+  </component>
+</project>
